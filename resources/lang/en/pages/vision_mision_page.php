@@ -22,10 +22,14 @@
 		'commitment_description'			=> 'The consultancy team is highly motivated and will do it’s best to achieve the ambitious goals set in the TOR. But to successfully establish LINTAS, it needs the commitment and collaboration of EBTKE management and selected staff and support from each directorate.',
 
 
-		'title_vision'						=> 'OUR VISION',
-		'sub_title_vision'					=> '<b>THE gate to clean energy in Indonesia</b><br/><p>LINTAS collects and disseminates all available data from all sources and opens doors for any investment entities.  LINTAS is a one stop service centre for clean energy information and facilitation for all stakeholders. LINTAS’ work benefits all EBTKE’s directorates and becomes an indispensable tool.</p>',
+		'title_vision'				=> 'OUR VISION',
+		'sub_title_vision'			=> '<b>THE GATE to clean energy in Indonesia</b><br/>
+							<p>- LINTAS collects and disseminates all available data from all sources and opens doors for any investment entities
+							<br>- LINTAS is a one stop service centre for clean energy information and facilitation for all stakeholders
+							<br>- LINTAS’ work benefits all EBTKE’s directorates and becomes an indispensable tool.
+							<br><b>Indonesia’s future is green</b>.</p>',
 
-		'title_mission'						=> 'OUR MISSION STATEMENT',
+		'title_mission'				=> 'OUR MISSION STATEMENT',
 
 		'description_mission_1'		=> 'Provide quality information and tools on clean energy',
 		'description_mission_2'		=> 'Facilitate contacts and interactions between investors and other stakeholders',
